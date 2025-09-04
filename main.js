@@ -1,0 +1,1 @@
+# Hello javascript! This is the frontend repository for prod environment.
